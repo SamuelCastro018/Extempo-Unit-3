@@ -1,3 +1,9 @@
+/**********************************************************************
+ * Write a function that takes a single string as its argument and*
+ * returns a pointer to the first nonwhite character in the string.*
+ * Samuel Castro Echeverria*
+ * Universidad Politecnica de Yucatan*
+ **********************************************************************/
 #include <stdio.h>
 #include <string.h>
 
